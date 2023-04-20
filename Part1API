@@ -1,0 +1,4 @@
+class API:    
+    def help_info(self):
+        text = " "
+        return text
